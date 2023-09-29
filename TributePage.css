@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#main {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+#title {
+    text-align: center;
+    margin-top: 10px;
+}
+
+#title-description {
+    text-align: center;
+    margin-top: 10px;
+}
+
+#img-div {
+    text-align: center;
+    margin: 20px 0;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+#img-caption {
+    margin-top: 10px;
+}
+
+#tribute-info {
+    margin: 20px 0;
+}
+
+.bold {
+  font-weight: 800;
+}
+
+#tribute-link {
+    display: block;
+    text-align: center;
+    margin: 30px 0;
+    color: blue;
+    text-decoration: underline;
+}
+
+#testimony {
+    font-style: italic;
+    margin-top: 10px;
+}
+
+footer{
+    font-weight: bold;
+    text-align: center;
+}
